@@ -1,0 +1,23 @@
+{
+    "sendTextResponse?sayHello": [
+        "say hello",
+        "this is"
+    ],
+    "sendTextResponse?notifyTechno": [
+        "call techno",
+        "where's techno",
+        "tell techno"
+    ],
+    "sendTextResponse?servePerson": [
+        "serve me",
+        "get me",
+        "pass the"
+    ],
+    "sendTextResponse?thank": [
+        "welcome lira"
+    ],
+    "sendTextResponse?welcome": [
+        "thank you",
+        "thanks"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "lira-bot",
+  "version": "1.0.0",
+  "description": "A PA bot for Telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Technohacker/lira.git"
+  },
+  "author": "Technohacker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Technohacker/lira/issues"
+  },
+  "homepage": "https://github.com/Technohacker/lira#readme",
+  "dependencies": {
+    "natural": "^0.5.4",
+    "node-telegram-bot-api": "^0.29.0"
+  }
+}

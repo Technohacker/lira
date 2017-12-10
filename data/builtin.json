@@ -1,0 +1,21 @@
+{
+    "sendTextResponse?introduceSelf": [
+        "who are you",
+        "what is your name",
+        "introduce yourself",
+        "where are you from"
+    ],
+    "showTime": [
+        "what is the time",
+        "can you tell the time",
+        "what time is it",
+        "stop showing the time"
+    ],
+    "sendTextResponse?whatCanLiraDo": [
+        "what can you do",
+        "show me what you can do",
+        "i want to know what you can do",
+        "show me what you can do",
+        "what are you capable of doing"
+    ]
+}

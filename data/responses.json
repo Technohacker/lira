@@ -1,0 +1,30 @@
+{
+    "sayHello": [
+        "Hey!",
+        "Hello!",
+        "Howdy!",
+        "Hey there!",
+        "Hi!"
+    ],
+    "introduceSelf": [
+        "I'm LiRa, your personal assistant! :D"
+    ],
+    "notifyTechno": [
+        "@Technohackr!"
+    ],
+    "servePerson": [
+        "I'm a PA, not a servant XD",
+        "Get it yourself XD"
+    ],
+    "whatCanLiraDo": [
+        "Read my source code to know ;P"
+    ],
+    "thank": [
+        "Thank you! :D",
+        "Thanks! :D"
+    ],
+    "welcome": [
+        "Welcome! :D",
+        "You're welcome! :D"
+    ]
+}
